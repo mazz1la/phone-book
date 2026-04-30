@@ -67,7 +67,7 @@ def delete_contact():
 
 def main():
     print("=" * 40)
-    print("      ТЕЛЕФОННАЯ КНИГА")
+    print("      ТЕЛЕФОННАЯ КНИГА - DELETE")
     print("=" * 40)
     while True:
         print("\nВыберите действие:")
